@@ -2,7 +2,7 @@
 const CONFIG = {
   name: "CA.CMA.Sri Nandhini",
   birthdayMonth: 10, birthdayDay: 25, birthdayHour: 0,
-  testMode: true,            // true = play now. Set false for the real birthday date.
+  testMode: false,            // true = play now. Set false for the real birthday date.
   buddy: "Guboi",            // German Shepherd's name
   showMusic: true,
   wishes: {                  // {name} becomes her name
