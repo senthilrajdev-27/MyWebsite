@@ -49,8 +49,8 @@ Eanoda nalathu ealam unaku 🤗kadikatum.
   finale: ["HAPPY BIRTHDAY", "{name} ❤️", "This little world is yours.", "May your real world be even more beautiful 🫡."]
 };
 const SONGS = [
-  { title: "Song 1", youtubeUrl: "https://www.youtube.com/watch?v=5KeOobG2hAY&list=RD5KeOobG2hAY&start_radio=1" },
-  { title: "Song 2", youtubeUrl: "https://www.youtube.com/watch?v=KiKtGQRn0LM&list=RDthtAxtEuX6c&index=12" },
+  { title: "Song 1", youtubeUrl: "https://youtu.be/duTYL9BZRrk?si=TIUfgf8xunHUvFqc" },
+  { title: "Song 2", youtubeUrl: "https://youtu.be/2iix1qBff4E?si=k7YETjszj_0Vc4VI" },
   { title: "Song 3", youtubeUrl: "https://www.youtube.com/watch?v=BUkyx8cmeC0&list=RDBUkyx8cmeC0&start_radio=1" },
   { title: "Song 4", youtubeUrl: "https://www.youtube.com/watch?v=iP86tGd_LBo&list=RDiP86tGd_LBo&start_radio=1" },
   { title: "Song 5", youtubeUrl: "https://www.youtube.com/watch?v=qoq8B8ThgEM&list=RDqoq8B8ThgEM&start_radio=1" },
