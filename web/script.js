@@ -1,7 +1,7 @@
 /* ================= EDIT THIS SECTION ================= */
 const CONFIG = {
   name: "Sri Nandhini",
-  birthdayMonth: 10, birthdayDay: 23, birthdayHour: 0,
+  birthdayMonth: 10, birthdayDay: 25, birthdayHour: 0,
   testMode: false,            // true = play now. Set false for the real birthday date.
   buddy: "Guboi",            // German Shepherd's name
   showMusic: true,
