@@ -49,12 +49,12 @@ Eanoda nalathu ealam unaku 🤗kadikatum.
   finale: ["HAPPY BIRTHDAY", "{name} ❤️", "This little world is yours.", "May your real world be even more beautiful 🫡."]
 };
 const SONGS = [
-  { title: "Song 1", youtubeUrl: "" },
-  { title: "Song 2", youtubeUrl: "" },
-  { title: "Song 3", youtubeUrl: "" },
-  { title: "Song 4", youtubeUrl: "" },
-  { title: "Song 5", youtubeUrl: "" },
-  { title: "Song 6", youtubeUrl: "" }
+  { title: "", youtubeUrl: "" },
+  { title: "", youtubeUrl: "" },
+  { title: "", youtubeUrl: "" },
+  { title: "", youtubeUrl: "" },
+  { title: "", youtubeUrl: "" },
+  { title: "", youtubeUrl: "" }
 ];
 /* ===================================================== */
 
