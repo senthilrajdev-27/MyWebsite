@@ -188,7 +188,7 @@ async function enter() {
   setBtns([]); document.body.classList.remove("intro"); 
   // Show music only after clicking ENTER MY WORLD
   if (CONFIG.showMusic) {
-    $("#music").style.display = "flex";
+    $("#music").style.display = "none";
     const first = ids.findIndex(Boolean);
     if (first >= 0) play(first);
   }
